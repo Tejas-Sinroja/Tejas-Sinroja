@@ -1,4 +1,4 @@
-# Hello, I'm Tejas Sinroja 👋
+# Hello,
 
 I'm a passionate developer, data scientist, and AI professional dedicated to building innovative solutions that harness the power of machine learning, computer vision, and data analytics. My work centers on translating complex challenges into elegant, practical software solutions.
 
