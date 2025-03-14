@@ -46,7 +46,7 @@ I'm a passionate developer, data scientist, and AI professional dedicated to bui
 ## 🤝 Let's Connect
 
 I'm always eager to discuss innovative projects and collaborate on new ideas.  
-Feel free to connect with me on [GitHub](https://github.com/Tejas-Sinroja) or drop me an email at [your.email@example.com](mailto:your.email@example.com).
+Feel free to connect with me on [GitHub](https://github.com/Tejas-Sinroja).
 
 ---
 
