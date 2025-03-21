@@ -39,7 +39,6 @@ I'm a passionate developer, data scientist, and AI professional dedicated to bui
 ## 📊 GitHub Stats
 
 ![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas-Sinroja&show_icons=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Sinroja&layout=compact&hide_border=true)
 
 ---
 
