@@ -1,4 +1,4 @@
-# Hello,
+# 👋 Hello, I'm Tejas Sinroja
 
 I'm a passionate developer, data scientist, and AI professional dedicated to building innovative solutions that harness the power of machine learning, computer vision, and data analytics. My work centers on translating complex challenges into elegant, practical software solutions.
 
@@ -7,6 +7,8 @@ I'm a passionate developer, data scientist, and AI professional dedicated to bui
 ---
 
 ## 🔭 Featured Projects
+
+Here are some of my most notable projects:
 
 - **[Academic-Ai-Assistant](https://github.com/Tejas-Sinroja/Academic-Ai-Assistant)**  
   An AI-powered assistant designed to streamline academic tasks and enhance research workflows.
@@ -23,29 +25,59 @@ I'm a passionate developer, data scientist, and AI professional dedicated to bui
 - **[Book_Recommendation_System](https://github.com/Tejas-Sinroja/Book_Recommendation_System)**  
   A machine learning–driven recommendation system tailored for book enthusiasts.
 
-- **[Car-price-predicion](https://github.com/Tejas-Sinroja/Car-price-predicion)**  
+- **[Car-price-prediction](https://github.com/Tejas-Sinroja/Car-price-prediction)**  
   A predictive model that estimates car prices through data analysis and machine learning.
 
 ---
 
 ## 💻 Technologies & Tools
 
-**Languages:** Python  
-**Frameworks & Tools:** Jupyter Notebook, TensorFlow, PyTorch, OpenCV, Pandas, NumPy  
-**Specialties:** Artificial Intelligence, Machine Learning, Data Science, Computer Vision
+**Languages:**  
+- Python  
+- JavaScript  
+
+**Frameworks & Tools:**  
+- Jupyter Notebook, TensorFlow, PyTorch  
+- OpenCV, Pandas, NumPy  
+- Flask, FastAPI  
+- MCP
+
+**AI Frameworks:**
+- Langchain, Langgraph, Google-ADK
+- Agno, CrewAI, AutoGen
+- OpenAI 
+
+**Specialties:**  
+- Artificial Intelligence  
+- Machine Learning  
+- Data Science  
+- Computer Vision
+- Agentic AI
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas-Sinroja&show_icons=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Sinroja&layout=compact&hide_border=true)
+
+---
+
+## 🌟 Highlights
+
+- **Open Source Contributions:** I actively contribute to open-source projects, sharing my expertise and learning from the community.  
+- **Research & Development:** My projects often explore cutting-edge AI and machine learning techniques.  
+- **Collaborative Spirit:** I enjoy working with teams to bring innovative ideas to life.  
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always eager to discuss innovative projects and collaborate on new ideas.  
-Feel free to connect with me on [GitHub](https://github.com/Tejas-Sinroja).
+I'm always eager to discuss innovative projects and collaborate on new ideas. Feel free to connect with me:
+
+- [GitHub](https://github.com/Tejas-Sinroja)  
+- [LinkedIn](https://www.linkedin.com/in/tejas-sinroja/)  
+- [Email](mailto:your-email@example.com)
 
 ---
 
