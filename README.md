@@ -77,7 +77,6 @@ I'm always eager to discuss innovative projects and collaborate on new ideas. Fe
 
 - [GitHub](https://github.com/Tejas-Sinroja)  
 - [LinkedIn](https://www.linkedin.com/in/tejas-sinroja/)  
-- [Email](mailto:your-email@example.com)
 
 ---
 
