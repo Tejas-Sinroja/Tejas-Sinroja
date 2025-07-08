@@ -12,6 +12,9 @@ Here are some of my most notable projects:
 
 - **[Academic-Ai-Assistant](https://github.com/Tejas-Sinroja/Academic-Ai-Assistant)**  
   An AI-powered assistant designed to streamline academic tasks and enhance research workflows.
+  
+- **[Kidney-Disease-Classification](https://github.com/Tejas-Sinroja/Kidney-Diseas-Classification)**  
+  End to End Deep Learning project to detect Kidney disease from it's CT scan image.
 
 - **[Agentic-AI-Example](https://github.com/Tejas-Sinroja/Agentic-AI-Example)**  
   A demonstration project exploring the potential of agent-based AI implementations.
@@ -33,14 +36,15 @@ Here are some of my most notable projects:
 ## 💻 Technologies & Tools
 
 **Languages:**  
-- Python  
-- JavaScript  
+- Python
+- C++ 
 
 **Frameworks & Tools:**  
 - Jupyter Notebook, TensorFlow, PyTorch  
 - OpenCV, Pandas, NumPy  
 - Flask, FastAPI  
 - MCP
+- MLFlow, GitHun Actions
 
 **AI Frameworks:**
 - Langchain, Langgraph, Google-ADK
@@ -65,7 +69,6 @@ Here are some of my most notable projects:
 
 ## 🌟 Highlights
 
-- **Open Source Contributions:** I actively contribute to open-source projects, sharing my expertise and learning from the community.  
 - **Research & Development:** My projects often explore cutting-edge AI and machine learning techniques.  
 - **Collaborative Spirit:** I enjoy working with teams to bring innovative ideas to life.  
 
@@ -75,7 +78,6 @@ Here are some of my most notable projects:
 
 I'm always eager to discuss innovative projects and collaborate on new ideas. Feel free to connect with me:
 
-- [GitHub](https://github.com/Tejas-Sinroja)  
 - [LinkedIn](https://www.linkedin.com/in/tejas-sinroja/)  
 
 ---
