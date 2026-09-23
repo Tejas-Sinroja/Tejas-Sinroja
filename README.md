@@ -1,85 +1,93 @@
-# 👋 Hello, I'm Tejas Sinroja
+<h1 align="center">Tejas Sinroja</h1>
 
-I'm a passionate developer, data scientist, and AI professional dedicated to building innovative solutions that harness the power of machine learning, computer vision, and data analytics. My work centers on translating complex challenges into elegant, practical software solutions.
+<p align="center">
+  <b>AI Engineer</b> · agentic AI systems, LLM applications and developer tools
+</p>
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=Tejas-Sinroja&color=blue)](https://github.com/Tejas-Sinroja)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-sinroja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tejas--sinroja-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://pypi.org/project/vestrix/"><img alt="Vestrix on PyPI" src="https://img.shields.io/pypi/v/vestrix?label=vestrix%20on%20PyPI&color=ea580c"></a>
+</p>
 
----
-
-## 🔭 Featured Projects
-
-Here are some of my most notable projects:
-
-- **[Academic-Ai-Assistant](https://github.com/Tejas-Sinroja/Academic-Ai-Assistant)**  
-  An AI-powered assistant designed to streamline academic tasks and enhance research workflows.
-  
-- **[Kidney-Disease-Classification](https://github.com/Tejas-Sinroja/Kidney-Diseas-Classification)**  
-  End to End Deep Learning project to detect Kidney disease from it's CT scan image.
-
-- **[Agentic-AI-Example](https://github.com/Tejas-Sinroja/Agentic-AI-Example)**  
-  A demonstration project exploring the potential of agent-based AI implementations.
-
-- **[VIA-Visual-Insight-Assistant](https://github.com/Tejas-Sinroja/VIA-Visual-Insight-Assistant)**  
-  An application that extracts and presents visual insights from complex datasets.
-
-- **[vehicle-counting-and-speed-estimation](https://github.com/Tejas-Sinroja/vehicle-counting-and-speed-estimation)**  
-  A computer vision project focused on vehicle detection, tracking, and speed estimation.
-
-- **[Book_Recommendation_System](https://github.com/Tejas-Sinroja/Book_Recommendation_System)**  
-  A machine learning–driven recommendation system tailored for book enthusiasts.
-
-- **[Car-price-prediction](https://github.com/Tejas-Sinroja/Car-price-prediction)**  
-  A predictive model that estimates car prices through data analysis and machine learning.
+I'm an AI engineer at **Accely**. I build agentic AI systems and LLM-powered applications, plus the tools developers
+need to understand them. My work covers multi-agent RAG, computer vision and MLOps, and I take projects from notebook
+experiments to tested, versioned and released software.
 
 ---
 
-## 💻 Technologies & Tools
+## Featured: Vestrix
 
-**Languages:**  
-- Python
-- C++ 
+<a href="https://github.com/Tejas-Sinroja/Vestrix">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-Sinroja/Vestrix/main/docs/brand/logo-dark.svg">
+    <img alt="Vestrix" src="https://raw.githubusercontent.com/Tejas-Sinroja/Vestrix/main/docs/brand/logo-light.svg" width="260">
+  </picture>
+</a>
 
-**Frameworks & Tools:**  
-- Jupyter Notebook, TensorFlow, PyTorch  
-- OpenCV, Pandas, NumPy  
-- Flask, FastAPI  
-- MCP
-- MLFlow, GitHun Actions
+**AI wrote it. See how it flows.** Vestrix is an interactive call-graph and data-flow explorer for Python. You point it
+at any codebase to see what an HTTP route actually runs, trace a value across every function it touches, and catch
+circular imports before they crash, all without running the code.
 
-**AI Frameworks:**
-- Langchain, Langgraph, Google-ADK
-- Agno, CrewAI, AutoGen
-- OpenAI 
+```bash
+pip install vestrix
+vestrix ui
+```
 
-**Specialties:**  
-- Artificial Intelligence  
-- Machine Learning  
-- Data Science  
-- Computer Vision
-- Agentic AI
+- Whole-program value tracing, call graphs and module maps in an offline web app
+- Detects entry points (FastAPI/Flask routes, scripts, CLI commands, tasks, tests) and the frameworks a project uses
+- Finds circular imports and fails CI on import-time cycles
+- Zero dependencies, published on PyPI with automated, tested releases
 
----
+[Repository](https://github.com/Tejas-Sinroja/Vestrix) · [PyPI](https://pypi.org/project/vestrix/) · [Changelog](https://github.com/Tejas-Sinroja/Vestrix/blob/main/CHANGELOG.md)
 
-## 📊 GitHub Stats
-
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejas-Sinroja&show_icons=true&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Sinroja&layout=compact&hide_border=true)
+<img alt="Vestrix tracing a request body across functions" src="https://raw.githubusercontent.com/Tejas-Sinroja/Vestrix/main/docs/images/trace.png" width="100%">
 
 ---
 
-## 🌟 Highlights
+## Selected projects
 
-- **Research & Development:** My projects often explore cutting-edge AI and machine learning techniques.  
-- **Collaborative Spirit:** I enjoy working with teams to bring innovative ideas to life.  
+### Agentic AI and LLM applications
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Academic AI Assistant](https://github.com/Tejas-Sinroja/Academic-Ai-Assistant) | Multi-agent assistant for students: turns course material into study notes, plans schedules, gives personalised advice and answers questions over PDFs and notes | LangChain, RAG, multi-agent |
+| [Blog Post Generator](https://github.com/Tejas-Sinroja/Blog_Post_generator) | Agent that researches a topic on the web and writes a blog post about it | Google ADK, LangChain, DuckDuckGo, Gemini via LiteLLM |
+| [GenAI Project Template](https://github.com/Tejas-Sinroja/GenAI_Project_template) | Starter kit for LLM apps: GPT and Claude clients, prompt tooling, rate limiting, caching and token counting | Python, OpenAI, Anthropic |
+| [Voice Assistant](https://github.com/Tejas-Sinroja/Voice_Assistant) | Record or upload audio and ask questions about what was said | Whisper, GPT-4o-mini, Streamlit |
+
+### Computer vision and deep learning
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Kidney Disease Classification](https://github.com/Tejas-Sinroja/Kidney-Diseas-Classification) | End-to-end pipeline that classifies kidney CT scans, with experiment tracking and data versioning | CNN, MLflow, DVC |
+| [Vehicle Counting and Speed Estimation](https://github.com/Tejas-Sinroja/vehicle-counting-and-speed-estimation) | Detects, tracks, counts and estimates the speed of vehicles in traffic video | YOLOv8, OpenCV |
+| [Visual Insight Assistant](https://github.com/Tejas-Sinroja/VIA-Visual-Insight-Assistant) | Recognises food from a photo and returns nutritional insights ([live demo](https://visual-insight-assistant.streamlit.app/)) | Computer vision, Streamlit |
+
+### Machine learning
+
+[Book recommendation](https://github.com/Tejas-Sinroja/Book_Recommendation_System) · [Credit card fraud detection](https://github.com/Tejas-Sinroja/credit-card-fraud-detection-system) · [Spam SMS detection](https://github.com/Tejas-Sinroja/spam-sms-detection) · [Email spam detection](https://github.com/Tejas-Sinroja/Email-spam-detection) · [Movie genre classification](https://github.com/Tejas-Sinroja/movie-genre-classification) · [Car price prediction](https://github.com/Tejas-Sinroja/Car-price-predicion)
 
 ---
 
-## 🤝 Let's Connect
+## Tech stack
 
-I'm always eager to discuss innovative projects and collaborate on new ideas. Feel free to connect with me:
-
-- [LinkedIn](https://www.linkedin.com/in/tejas-sinroja/)  
+| | |
+|---|---|
+| **Languages** | Python · C++ |
+| **LLMs and agents** | LangChain · LangGraph · Google ADK · CrewAI · AutoGen · Agno · OpenAI · Anthropic Claude · MCP |
+| **ML and vision** | PyTorch · TensorFlow · OpenCV · YOLOv8 · Pandas · NumPy |
+| **Apps and APIs** | FastAPI · Flask · Streamlit |
+| **MLOps and tooling** | MLflow · DVC · GitHub Actions · PyPI packaging · Jupyter |
 
 ---
 
-*Crafted with passion and a commitment to continuous learning.*
+## Currently
+
+- Building **[Vestrix](https://github.com/Tejas-Sinroja/Vestrix)**. Next up is a runtime overlay that shows what
+  actually ran during your tests, drawn on top of the static graph.
+- Designing agentic AI systems and the evaluation and tooling that make them dependable.
+
+## Connect
+
+I'm happy to talk about agentic AI, developer tooling or collaboration. Reach me on
+**[LinkedIn](https://www.linkedin.com/in/tejas-sinroja/)**.
