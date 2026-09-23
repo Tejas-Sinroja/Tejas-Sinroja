@@ -9,7 +9,7 @@
   <a href="https://pypi.org/project/vestrix/"><img alt="Vestrix on PyPI" src="https://img.shields.io/pypi/v/vestrix?label=vestrix%20on%20PyPI&color=ea580c"></a>
 </p>
 
-I'm an AI engineer at **Accely**. I build agentic AI systems and LLM-powered applications, plus the tools developers
+I'm an AI engineer. I build agentic AI systems and LLM-powered applications, plus the tools developers
 need to understand them. My work covers multi-agent RAG, computer vision and MLOps, and I take projects from notebook
 experiments to tested, versioned and released software.
 
